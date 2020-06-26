@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Thambi+2|Raleway&display=swap");
+/************************************* END FONTS *************************************/
+
+* {
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+  padding: 0;
+  letter-spacing: 0.5px;
+}
+
+.mainContainer {
+  /* width: 80%; */
+  margin-top: 10%;
+}

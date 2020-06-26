@@ -1,0 +1,24 @@
+.listContainer {
+  position: relative;
+  width: 40%;
+  border: 1px black solid;
+  margin-right: 5px;
+}
+
+.jobDetailsContainer {
+  display: grid;
+  width: 60%;
+  border: 1px black solid;
+  margin-left: 5px;
+  background-color: lawngreen;
+}
+
+.jobPagecontainer {
+  display: flex;
+  margin: 0 20px;
+}
+
+.jobDetails {
+  position: relative;
+  padding: 10px;
+}

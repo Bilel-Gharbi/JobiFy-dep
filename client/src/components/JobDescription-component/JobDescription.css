@@ -1,0 +1,54 @@
+.jobDescriptionContainer {
+  background-color: grey;
+  width: 100%;
+  padding: 5px;
+  margin: auto;
+  display: grid;
+  grid-template-rows: repeat(auto-fill, minmax(15%, 1fr));
+  grid-gap: 3px;
+}
+
+.header-job-description,
+.content-job-comapny-description,
+.content-job-description,
+.footer-job-description {
+  background-color: wheat;
+  margin: 3px 5px;
+  padding: 10px;
+}
+
+.one {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  border: 1px black solid;
+  margin-bottom: 10px;
+}
+.two {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  border: 1px black solid;
+  margin-bottom: 10px;
+}
+.tree {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  border: 1px black solid;
+  margin-bottom: 10px;
+}
+
+.infoDiv {
+  align-items: flex-start;
+  padding: 3px;
+}
+.btnDiv {
+  display: inline-flex;
+  padding: 3px;
+  align-items: center;
+}
+
+.btnDiv > div {
+  margin: 0px 3px;
+}

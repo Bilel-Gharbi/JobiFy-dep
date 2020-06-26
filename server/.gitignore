@@ -1,0 +1,6 @@
+/node_modules
+.env
+/loaders/access.log
+.log
+fakeUserData.js
+.txt
